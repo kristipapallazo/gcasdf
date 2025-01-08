@@ -1,8 +1,8 @@
 import Card from "./Card/Card";
-import icon1 from "../../../../../public/assets/icon1.png";
-import icon2 from "../../../../../public/assets/icon2.png";
-import icon3 from "../../../../../public/assets/icon3.png";
-import icon4 from "../../../../../public/assets/icon4.png";
+import icon1 from "../../../../assets/icon1.png";
+import icon2 from "../../../../assets/icon2.png";
+import icon3 from "../../../../assets/icon3.png";
+import icon4 from "../../../../assets/icon4.png";
 
 import classes from "./CardSection.module.css";
 

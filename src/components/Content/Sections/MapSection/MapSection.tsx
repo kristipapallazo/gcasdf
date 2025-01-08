@@ -1,7 +1,7 @@
-import mobileMap from "../../../../../public/assets/map_mobile.png";
-import albaniaMap from "../../../../../public/assets/map_alb.png";
-import statImg from "../../../../../public/assets/icon5.png";
-import chargeVideo from "../../../../../public/assets/video/charge3.mp4";
+import mobileMap from "../../../../assets/map_mobile.png";
+import albaniaMap from "../../../../assets/map_alb.png";
+import statImg from "../../../../assets/icon5.png";
+import chargeVideo from "../../../../assets/video/charge3.mp4";
 
 import classes from "./MapSection.module.css";
 

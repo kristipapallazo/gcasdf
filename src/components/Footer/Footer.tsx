@@ -1,7 +1,7 @@
-import inIcon from "../../../public/assets/sm_in_icon.png";
-import instaIcon from "../../../public/assets/sm_insta_icon.png";
-import youtubeIcon from "../../../public/assets/sm_youtube_icon.png";
-import mainLogo from "../../../public/assets/main_logo.jpg";
+import inIcon from "../../assets/sm_in_icon.png";
+import instaIcon from "../../assets/sm_insta_icon.png";
+import youtubeIcon from "../../assets/sm_youtube_icon.png";
+import mainLogo from "../../assets/main_logo.jpg";
 
 import classes from "./Footer.module.css";
 

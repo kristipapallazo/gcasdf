@@ -1,9 +1,10 @@
 import RoundBttn from "../../Button/RoundButton/RoundBttn";
 import FlagDropdown from "../../Dropdown/FlagDropdown/FlagDropdown";
-import mainLogo from "../../../../public/assets/main_logo.jpg";
+// import mainLogo from "../../../assets/main_logo.jpg";
+
 import classes from "./MainHeader.module.css";
 const MainLogo = () => {
-  return <img src={mainLogo} alt="logo" height="80px" />;
+  return <img src="/src/assets/main_logo.jpg" alt="logo" height="80px" />;
 };
 
 const PAGE_KEYS: string[] = ["Home", "Locations", "Products", "About us"];

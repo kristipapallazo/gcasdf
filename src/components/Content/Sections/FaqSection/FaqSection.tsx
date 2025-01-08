@@ -1,7 +1,8 @@
-import classes from "./FaqSection.module.css";
-import chargeImg from "../../../../../public/assets/charge_img.png";
-import { TbArrowBadgeRightFilled } from "react-icons/tb";
 import { FC } from "react";
+import chargeImg from "../../../../assets/charge_img.png";
+import { TbArrowBadgeRightFilled } from "react-icons/tb";
+
+import classes from "./FaqSection.module.css";
 
 const ArrowIcon = () => {
   return (

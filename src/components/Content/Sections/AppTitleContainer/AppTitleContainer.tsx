@@ -1,6 +1,6 @@
 import RoundBttn from "../../../Button/RoundButton/RoundBttn";
 import classes from "./AppTitleContainer.module.css";
-import mainVideo from "../../../../../public/assets/video/main_video.mp4";
+import mainVideo from "../../../../assets/video/main_video.mp4";
 
 const AppTitleContainer = () => {
   return (
