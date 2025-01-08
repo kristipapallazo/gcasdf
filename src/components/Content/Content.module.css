@@ -1,0 +1,8 @@
+.container {
+  flex: 1;
+  overflow: auto;
+  background-color: white;
+}
+.content {
+  padding: 0 40px;
+}
